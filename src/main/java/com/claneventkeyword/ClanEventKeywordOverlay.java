@@ -14,7 +14,7 @@ public class ClanEventKeywordOverlay extends OverlayPanel {
     private ClanEventKeywordPlugin plugin;
     private ClanEventKeywordConfig config;
 
-    private static final SimpleDateFormat sdf3 = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+    private static final SimpleDateFormat sdf3 = new SimpleDateFormat("yyyy-MM-dd HH:mm");
 
 
     @Inject
